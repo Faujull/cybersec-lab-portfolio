@@ -78,4 +78,3 @@ All labs were performed in controlled environments on authorized targets only. T
 
 Computer Science student with a focus on cybersecurity. Currently working towards a deeper understanding of offensive and defensive security techniques through hands-on practice.
 
-[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=flat&logo=google)](https://grow.google/certificates/cybersecurity/)
